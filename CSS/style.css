@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color:#3fc1c9;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.top-container {
+  background-color: #f9ed69;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #3fc1c9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #ffffd2;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+  height: 500px;
+  width: 700px;
+  border-radius: 50%;
+  border-width: thick;
+}
+
+
+
+.btn-default {
+      background: #000;
+      color: #111;
+   }
